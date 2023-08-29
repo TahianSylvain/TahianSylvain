@@ -8,6 +8,7 @@
 TahianSylvain/TahianSylvain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+💼 Technical Skills
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/6c314d37-bf23-459a-981b-0079d45299e0)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/4171d4de-9e0f-4808-b88a-1429780c36b9)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/8bde4df4-cd2d-4555-a11b-4271c5f607e0)
@@ -18,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/964f7ea5-07bb-4fbb-86c3-3a373655f6b7)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/f5bedd9f-75e1-4dbc-84cc-368077bd021d)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/8e1558aa-189d-484d-bbd3-50823cd497a7)
+![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/e48a266e-865b-4812-824b-3791e687afcf)
+![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/222cd29b-0e56-436c-8aa3-133fb59b3c47)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/4c81f132-dfbd-4691-90c8-c62d473a9a39)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/18435013-55ae-4844-b2ae-0977c3f0548c)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/b61c0160-7ca6-44b3-a1fd-bb5d0507274d)
