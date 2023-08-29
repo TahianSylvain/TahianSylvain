@@ -9,6 +9,7 @@ TahianSylvain/TahianSylvain is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 💼 Technical Skills
+
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/6c314d37-bf23-459a-981b-0079d45299e0)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/4171d4de-9e0f-4808-b88a-1429780c36b9)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/8bde4df4-cd2d-4555-a11b-4271c5f607e0)
