@@ -23,7 +23,3 @@ You can click the Preview link to take a look at your changes.
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/e48a266e-865b-4812-824b-3791e687afcf)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/4c81f132-dfbd-4691-90c8-c62d473a9a39)
 ![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/18435013-55ae-4844-b2ae-0977c3f0548c)
-
-
-![image](https://github.com/TahianSylvain/TahianSylvain/assets/124794207/15da042a-0ed4-4236-afc9-424268b33bd2)
-
