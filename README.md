@@ -1,7 +1,7 @@
 - 👋 Hi, THERE !
 - 👀 I’m interested in World of technologies & sciences
 - 🌱 I’m currently learning ML/DL and IOT
-- 💞️ I’m looking to collaborate on Linkedin  www.linkedin.com/in/tahiansylvain-andry-a27534283
+- 💞️ I’m looking to collaborate on Linkedin  www.linkedin.com/in/tahiansylvain
 - 📫 How to reach me ?  U can contact me at ranjalahyandrytahianasylvain@gmail.com
 
 <!---
