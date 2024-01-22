@@ -1,8 +1,5 @@
-- 👋 Hi, THERE !
-- 👀 I’m interested in World of technologies & sciences
-- 🌱 I’m currently learning ML/DL and IOT
-- 💞️ I’m looking to collaborate on www.linkedin.com/in/TahianSylvain
-- 📫 How to reach me ? ranjalahyandrytahianasylvain@gmail.com
+- 👋 Hi, THERE ! I am 2 years expertise in python3 junior dev
+- U can reach me at https://ranjalahyandrytahianasylvain@gmail.com
 <!---
 TahianSylvain/TahianSylvain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
